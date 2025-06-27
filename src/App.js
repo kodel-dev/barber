@@ -20,16 +20,14 @@ function App() {
      <section className="py-4 gap-4 flex justify-center relative text-neutral-950">
         <h2 className="text-9xl hidden lg:block absolute top-52 -left-48 text-red-900 rotate-90">Tentang</h2>
         <div className="flex flex-col gap-4 px-4">
-          <p className="text-4xl">Siapa Kami</p>
+          <p className="text-4xl">Tentang Kami – Classic Quads Barbers</p>
           <p className="italic">Indonesia | Sejak 2023</p>
           <p className="max-w-lg mx-auto text-xl">
-            Tujuan utama Anda untuk layanan grooming dan penataan rambut terbaik di jantung kota. Didirikan dengan semangat tinggi terhadap seni barber dan komitmen terhadap komunitas, kami berdedikasi untuk memberikan pengalaman grooming yang luar biasa sehingga Anda tampil dan merasa terbaik.
-          </p>
+           Selamat datang di Classic Quads Barbers – tempat di mana gaya klasik bertemu sentuhan modern, dan pelayanan terbaik jadi prioritas utama.</p>
           <p className="max-w-lg mx-auto text-xl">
-            Didirikan pada tahun 2023, Nab Barber lahir dari impian seumur hidup dan dedikasi terhadap dunia barbering. Nabilla Christanti, pendiri kami, membayangkan sebuah tempat di mana siapa pun bisa merasakan seni grooming yang tak lekang oleh waktu dalam suasana yang nyaman dan ramah.
+          Kami adalah tim beranggotakan lima barber profesional yang berdedikasi untuk memberikan lebih dari sekadar potongan rambut. Dengan kombinasi pengalaman, teknik tajam, dan passion di dunia grooming pria, kami hadir untuk menciptakan pengalaman potong rambut yang nyaman, rapi, dan penuh karakter.
           </p>
-          <p className="max-w-lg mx-auto text-xl">
-            Tim barber kami yang berpengalaman dan terampil adalah tulang punggung kesuksesan kami. Kami bangga memiliki staf yang berbakat dan beragam, masing-masing berkomitmen memberikan layanan terbaik. Para barber kami bukan hanya profesional, tetapi juga seniman yang terus mengasah kemampuan dan mengikuti tren terbaru di industri ini.
+          <p className="max-w-lg mx-auto text-xl">Di Classic Quads, setiap potongan tidak hanya soal gaya tapi juga tentang meningkatkan rasa percaya diri Anda. Mulai dari gaya klasik yang abadi hingga tren modern yang dinamis, kami pastikan setiap pelanggan keluar dengan tampilan terbaik versi dirinya.
           </p>
         </div>
         <img className="w-1/4 grayscale object-cover hidden md:block" src='https://images.pexels.com/photos/1895701/pexels-photo-1895701.jpeg' />

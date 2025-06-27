@@ -8,7 +8,6 @@ function MobileMenu({mobileMenuActive, setMobileMenuActive, slide}) {
           <div className='w-full h-full flex nav flex-col gap-10 items-center justify-center text-2xl'>
             <Link onClick={() => setMobileMenuActive(false)} to='/services'>Services</Link>
             <Link onClick={() => setMobileMenuActive(false)} to='/about'>About</Link>
-            <Link onClick={() => setMobileMenuActive(false)} to='/team'>Our Team</Link>
             <Link onClick={() => setMobileMenuActive(false)} to='/contact'>Contact</Link>
             
           </div>

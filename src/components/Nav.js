@@ -48,7 +48,6 @@ function Nav() {
     
       <Link to='/services'>Services</Link>
       <Link to='/about'>About</Link>
-      <Link to='/team'>Our Team</Link>
       <Link to='/contact'>Contact</Link>
       </ul>
       <button style={scrollDir === 'scrolling up' ? {visibility: 'visible'} : {visibility: 'hidden'}} onClick={() => {setMobileMenuActive(!mobileMenuActive); setMobileMenuShowing(true)}}>

@@ -10,7 +10,7 @@ function SalonServices() {
           <div className="flex items-end">
             <h2 className="font-bold min-w-fit">Cuci, Potong & Gaya</h2>
             <div className="h-px w-full mb-1 bg-neutral-400"></div>
-            <p>Rp750.000+</p>
+            <p>Rp50.000</p>
           </div>
           <p>Potongan rambut gaya panjang dengan pengeringan dan penataan.</p>
         </div>
@@ -19,7 +19,7 @@ function SalonServices() {
           <div className="flex items-end">
             <h2 className="font-bold min-w-fit">Potong Salon - Anak 13 Tahun ke Bawah</h2>
             <div className="h-px w-full mb-1 bg-neutral-400"></div>
-            <p>Rp465.000+</p>
+            <p>Rp25.000</p>
           </div>
           <p>Potongan rambut gaya panjang dengan pengeringan dan penataan cepat.</p>
         </div>
@@ -28,7 +28,7 @@ function SalonServices() {
           <div className="flex items-end">
             <h2 className="font-bold min-w-fit">Potong Poni</h2>
             <div className="h-px w-full mb-1 bg-neutral-400"></div>
-            <p>Rp330.000+</p>
+            <p>Rp50.000</p>
           </div>
         </div>
 
@@ -36,7 +36,7 @@ function SalonServices() {
           <div className="flex items-end">
             <h2 className="font-bold min-w-fit">Cuci & Blowdry</h2>
             <div className="h-px w-full mb-1 bg-neutral-400"></div>
-            <p>Rp600.000+</p>
+            <p>Rp60.000</p>
           </div>
           <p>Rp15.000/menit</p>
         </div>
@@ -45,7 +45,7 @@ function SalonServices() {
           <div className="flex items-end">
             <h2 className="font-bold min-w-fit">Cuci, Potong & Gaya - Rambut Keriting</h2>
             <div className="h-px w-full mb-1 bg-neutral-400"></div>
-            <p>Rp900.000+</p>
+            <p>Rp90.000</p>
           </div>
           <p>Jika nama Anda Eva, potongan rambut ini GRATIS 100%.</p>
         </div>
@@ -54,7 +54,7 @@ function SalonServices() {
           <div className="flex items-end">
             <h2 className="font-bold min-w-fit">Potong Kering - Rambut Keriting</h2>
             <div className="h-px w-full mb-1 bg-neutral-400"></div>
-            <p>Rp750.000+</p>
+            <p>Rp75.000</p>
           </div>
         </div>
       </ul>

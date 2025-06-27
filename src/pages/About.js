@@ -24,13 +24,13 @@ function About() {
           <p className="text-4xl">Awal Perjalanan Kami</p>
           <p className="italic">Indonesia | Sejak 2023</p>
           <p className="max-w-lg mx-auto text-xl">
-            Nab Barber lahir dari hasrat mendalam terhadap seni barber dan komitmen kuat untuk melayani masyarakat. Cerita kami dimulai di sebuah barbershop kecil dan sederhana, tempat di mana Nabilla Christanti, pendiri kami, mengasah keahlian dan membangun hubungan hangat dengan klien pertama kami.
+          Selamat datang di Classic Quads Barbers – tempat di mana gaya klasik bertemu sentuhan modern, dan pelayanan terbaik jadi prioritas utama.
           </p>
           <p className="max-w-lg mx-auto text-xl">
-            Dari awal yang sederhana itu, kabar tentang kualitas layanan dan suasana ramah kami menyebar cepat. Seiring dengan meningkatnya reputasi, tim kami pun berkembang, dengan barbers berbakat yang selalu mengutamakan potongan rambut presisi dan cukur klasik yang membuat pelanggan merasa percaya diri dan tampil maksimal.
+            Kami adalah tim beranggotakan lima barber profesional yang berdedikasi untuk memberikan lebih dari sekadar potongan rambut. Dengan kombinasi pengalaman, teknik tajam, dan passion di dunia grooming pria, kami hadir untuk menciptakan pengalaman potong rambut yang nyaman, rapi, dan penuh karakter.
           </p>
           <p className="max-w-lg mx-auto text-xl">
-            Hingga kini, kami tetap setia pada nilai-nilai awal kami: keterampilan terbaik, suasana hangat, dan dedikasi tanpa henti untuk membantu pelanggan menemukan gaya terbaik mereka.
+          Di Classic Quads, setiap potongan tidak hanya soal gaya tapi juga tentang meningkatkan rasa percaya diri Anda. Mulai dari gaya klasik yang abadi hingga tren modern yang dinamis, kami pastikan setiap pelanggan keluar dengan tampilan terbaik versi dirinya.
           </p>
         </div>
       </section>

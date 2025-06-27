@@ -5,54 +5,57 @@ function BarberServices() {
       <ul className="max-w-6xl grid grid-cols-1 grid-rows-1 gap-2 text-center mx-auto">
         <div className="text-left">
           <div className="flex items-end">
-            <h2 className="font-bold min-w-fit">Potong & Gaya Signature</h2>
+            <h2 className="font-bold min-w-fit">Basic Haircut</h2>
             <div className="h-px w-full mb-1 bg-neutral-400"></div>
-            <p>Rp675.000+</p>
+            <p>Rp35.000
+</p>
           </div>
-          <p>Kunjungan pertama atau sudah lebih dari 5 minggu? Silakan pesan layanan ini!</p>
+          <p>Potongan standar dengan teknik rapi dan presisi. Cocok untuk gaya clean dan formal</p>
         </div>
 
         <div className="text-left">
           <div className="flex items-end">
-            <h2 className="font-bold min-w-fit">Potong Rutin</h2>
+            <h2 className="font-bold min-w-fit">Fade Cut (Low / Mid / High)</h2>
             <div className="h-px w-full mb-1 bg-neutral-400"></div>
-            <p>Rp525.000+</p>
+            <p>Rp45.000</p>
           </div>
-          <p>Layanan 30 menit hanya dasar saja. Untuk kunjungan setiap 5 minggu atau kurang.</p>
+          <p>Gradasi halus untuk tampilan lebih modern dan maskulin</p>
         </div>
 
         <div className="text-left">
           <div className="flex items-end">
-            <h2 className="font-bold min-w-fit">Potong Rambut - Anak 13 Tahun ke Bawah</h2>
+            <h2 className="font-bold min-w-fit">Undercut Style</h2>
             <div className="h-px w-full mb-1 bg-neutral-400"></div>
-            <p>Rp465.000+</p>
+            <p>Rp45.000</p>
           </div>
-          <p>Gaya potongan barber (gunting pendek dan clipper).</p>
+          <p>Potongan tajam dan stylish untuk kamu yang berani tampil beda.</p>
         </div>
 
         <div className="text-left">
           <div className="flex items-end">
-            <h2 className="font-bold min-w-fit">Fade/Desain Lanjutan</h2>
+            <h2 className="font-bold min-w-fit">Classic Pompadour / Slickback</h2>
             <div className="h-px w-full mb-1 bg-neutral-400"></div>
-            <p>Rp975.000+</p>
+            <p>Rp50.000</p>
           </div>
-          <p>Rp15.000/menit</p>
+          <p>Gaya klasik yang elegan dengan sentuhan modern, termasuk styling pomade.</p>
         </div>
 
         <div className="text-left">
           <div className="flex items-end">
-            <h2 className="font-bold min-w-fit">Rapih Jenggot</h2>
+            <h2 className="font-bold min-w-fit">Kids Haircut (≤ 12 Tahun)</h2>
             <div className="h-px w-full mb-1 bg-neutral-400"></div>
-            <p>Rp330.000+</p>
+            <p>Rp25.000</p>
           </div>
+           <p>Potongan lucu dan nyaman untuk anak-anak, oleh barber yang sabar dan telaten.</p>
         </div>
 
         <div className="text-left">
           <div className="flex items-end">
-            <h2 className="font-bold min-w-fit">Perawatan Kulit Kepala</h2>
+            <h2 className="font-bold min-w-fit">Shaving / Beard Trim</h2>
             <div className="h-px w-full mb-1 bg-neutral-400"></div>
-            <p>Rp330.000+</p>
+            <p>Rp25.000</p>
           </div>
+          <p>Cukur jenggot/kumis rapi dengan pisau steril dan teknik presisi.</p>
         </div>
       </ul>
     </section>
